@@ -10,7 +10,7 @@
   "dependencies": {
     "node-nlp": "git+ssh://git@github.com/doc-ai/nlp.js.git#react-native",
     "react": "16.8.6",
-    "react-native": "0.60.4"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
